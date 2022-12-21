@@ -1,0 +1,320 @@
+*  {
+    box-sizing: border-box;
+}
+.weborder_img  {
+    width: 100%;
+    height: auto;
+}
+.btn_email  {
+  display: flex;
+}
+.digital_plafformimg  {
+    display: flex;
+    margin-top: 30px;
+    background-color: rgb(235, 211, 215);
+}
+.youresturant  {
+    width: 50%;
+    padding: 33px;
+}
+.emailbox   {
+  border-radius: 8px;
+  padding: 10px;
+}
+.statnowbtn  {
+  padding: 10px;
+  background-color: rgb(54, 193, 248);
+  border-radius: 46px;
+  border: none;
+  margin-top: -8px;
+  margin-left: -10px;
+}
+.youresturant h1  {
+    margin-top: 10px;
+    font-size: 6.5rem;
+}
+.imgwedsite  {
+    width: 50%;
+}
+.polaroid {
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  .traffic_progress  {
+    display: flex;
+    margin: auto;
+  }
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+  .polaroid:hover  {
+    border-top: 10px solid red;
+    /* transition-duration: 1s; */
+    /* transition-timing-function: linear; */
+  transition-delay: 1s;
+  }
+  .links_to_webcotools  {
+    display: flex;
+    gap: 5rem;
+    padding: 100px;
+  }
+  div.div_70ps> h1  {
+    color: lightseagreen;
+    font-weight: 900;
+    font-size: 7.5rem;
+  }
+  .div_70ps p {
+    font-weight: 700;
+    margin-top: -69px;
+    margin-left: 30px;
+  }
+  .div_70ps {
+    padding: 30px;
+    margin: auto;
+    gap: 20px;
+    margin-bottom: -60px;
+  }
+  .empower_succed   {
+    display: flex;
+    max-width: 100%;
+    margin: auto;
+  }
+  .res_tosuceed  {
+    width: 45%;
+    margin-top: 8rem;
+    margin-left: 94px;
+  }
+  .imagevideo   {
+    width: 60%;
+    display: flex;
+  }
+  .img_since2016  {
+    width: 100%;
+    height: auto;
+  }
+  .imgplaybuttonvd  {
+    margin-top: 10rem;
+    position: absolute;
+    margin-left: -3%;
+  }
+  .hear_link  {
+    color: black;
+    font-weight: 900;
+    text-decoration: none;
+    border-bottom: 4px solid;
+    padding-bottom: 19px;
+    border-color: deepskyblue;
+  }
+  a.hear_link:hover  {
+    margin-left: 10px;
+    transition-duration: 1s;
+  }
+  .res_tosuceed > h1  {
+    font-size: 3.5rem;
+  }
+  .smallplaybtn  {
+    width: 25%;
+  }
+  .link_in_playbutton  {
+    display: flex;
+    margin-top: 10px;
+  }
+  .small_imgplay   {
+    margin-right: -58px;
+  }
+  .bento_solution  {
+    width: 90%;
+    margin: auto;
+    height: 401px;
+    padding: 79px;
+    margin-top: 126px;
+    border-top: 8px solid yellow;
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .profileimg  {
+    border-radius: 100%;
+    position: absolute;
+    width: 11%;
+    height: auto;
+    margin-top: -164px;
+  }
+.test_supptimg  {
+    width: 100%;
+    height: auto;
+  }
+  .solutn_content  {
+    width: 40%;
+  }
+  .img_metaball  {
+    width: 50%;
+    position: absolute;
+    right: 0;
+  }
+  .elevate  {
+    display: flex;
+  }
+  .whybbx  {
+    margin-top: 300px;
+    margin-left: 87px;
+  }
+  .whybox    {
+    display: flex;
+    margin-top: 58px;
+    gap: 32px;
+  }
+  .elevate_contenyt  {
+    margin-left: 10px;
+  }
+  .imgrow_size  {
+    width: 100%;
+    height: auto;
+  }
+  .divrow_img  {
+    width: 10%;
+  }
+  .row_img  {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 7rem;
+  }
+  .img_style {
+    width: 100%;
+  }
+  .img_style_height  {
+    width:100%;
+    height: 400px;
+  }
+  .img_peapledwn  {
+    width: 100%;
+    height: auto;
+  }
+  .chat_demo_img  {
+    width: 80%;
+    margin: auto;
+    margin-top: 153px;
+  }
+  .lets_chatdiv  {
+    position: absolute;
+    top: 3;
+    width: 26%;
+    padding: 40px;
+    border: 2px solid rgb(49, 202, 230);
+    background-color: rgb(49, 202, 230);
+  }
+  .people_downimage  {
+    margin-left: 41px;
+  }
+  a.demolink:hover  {
+    padding-left: 50px;
+    color: white;
+    font-weight: 500;
+  }
+  .topfirst_div {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background-color: rgb(41, 40, 40);
+  }
+  div.footer_link > a {
+    display: block;
+    text-decoration: none;
+    color: gray;
+  }
+  div.footer_link  {
+
+  }
+  @media only screen and (max-width: 788px) {
+    .digital_plafformimg  {
+      flex-direction: column;
+    }
+    .btn_email  {
+      flex-direction: column;
+    }
+    .traffic_progress  {
+      flex-direction: column;
+    }
+    .links_to_webcotools {
+      flex-direction: column;
+      width: 100%;
+      padding: 9px;
+      margin-top: 52px;
+    }
+    .polaroid {
+      display: block;
+      width: 100%;
+      height: auto;
+      padding: 0;
+    }
+    .statnowbtn  {
+      display: block;
+      margin-top: 10px;
+    }
+    .youresturant h1 {
+      font-size: 4.5rem;
+      width: 210%;
+    }
+    .weborder_img {
+      margin: auto;
+    }
+    .empower_succed {
+      flex-direction: column;
+      width: 100%;
+      padding: 9px;
+    }
+    .res_tosuceed {
+      margin: 0;
+    }
+    .img_since2016  {
+      margin-top: 90px;
+      width: 100%;
+    }
+    .imagevideo {
+      width: 100%;
+    }
+    .imgplaybuttonvd {
+    margin-top: 3rem;
+    position: absolute;
+    margin-left: 39%;
+}
+.res_tosuceed > h1 {
+  font-size: 2.5rem;
+  width: 137%;
+  }
+  .test_supptimg  {
+    display: none;
+  }
+  .bento_solution  {
+    flex-direction: column;
+    margin: 0;
+    width: 100%;
+    padding: 10px;
+    margin-top: 126px
+  }
+  .profileimg  {
+    width: 30%;
+    margin-top: -99px;
+    left: 28%;
+  }
+  .bento_solution h1 {
+    text-align: center;
+  }
+  .solutn_content {
+    width: 100%;
+    margin-top: 87px;
+    height: auto;
+  }
+  .side2 {
+    display: none;
+  }
+  .whybbx  {
+    margin: 0;
+    padding: 9px;
+  }
+}

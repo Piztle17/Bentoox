@@ -1,0 +1,109 @@
+*  {
+    box-sizing: border-box;
+}
+body  {
+    /* background-color: #b86a64; */
+    background-image: url(images/image\ people\ down.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-container   {
+    width: 50%;
+    margin: auto;
+    border-top: 20px solid #c22f2a;
+    background-color: rgb(255, 156, 138);
+    border-radius: 10px;
+}
+.text  {
+    margin: 10px;
+    width: 100%;
+    padding: 25px;
+    display: block;
+}
+.form-container  {
+    margin: auto;
+}
+h1 {
+    position: relative;
+}
+h1::after {
+    content: "";
+    position: absolute;
+    height: 60px;
+    width: 300px;
+    background-color: #c22f2a;
+    bottom: 0;
+    left: 0;
+}
+input  {
+    /* display: block; */
+    /* width: 100%; */
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    /* border-bottom: 2px solid black; */
+    outline: none;
+}
+.text {
+    position: relative;
+    background-color: aqua;
+}
+.text::before {
+    content: "";
+    position: absolute;
+    height: 8px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(247, 240, 239);
+    transition: all .4s linear;
+}
+/* .text:focus ::after {
+    width: 100%;
+} */
+h1  {
+    text-align: center;
+}
+.wthree-text  {
+    display: flex;
+}
+.agileits-top  {
+    width: 85%;
+    margin: auto;
+    margin-left: 47px;
+}
+.anim  {
+    margin-top: 10px;
+}
+button  {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    padding: 30px;
+    background-color: #c54730;
+    border-radius: 109px;
+    margin-top: 45px;
+    color: white;
+    font-size: larger;
+}
+.phone_zip  {
+    display: flex;
+    width: 103%;
+}
+
+@media(max-width:680px) {
+  .main-container {
+    width: 90%;
+    height: auto;
+  }
+  .form-container  {
+         width: 80%; 
+  }
+  .text  {
+    width: 100%;
+  }
+  .phone_zip  {
+    width: 103%;
+  }
+}
